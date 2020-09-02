@@ -101,8 +101,20 @@ header aside a:hover {
     height: 191px;
     background-color: #f60;
     margin-right: 12px;
+    margin-bottom: 10px;
 }
 
 .box {
     margin-right: -12px;
+}
+
+footer {
+    height: 30px;
+    background-color: #ccc;
+}
+
+footer>p {
+    width: 800px;
+    text-align: center;
+    margin: 20px auto;
 }
